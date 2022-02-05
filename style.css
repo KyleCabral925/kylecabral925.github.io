@@ -7,4 +7,7 @@ h2 {
             background-image: url("myBackround.jpg");
         }
 
+div {
+            background: white;
+}
 #nav-table { width: 1024px;}
