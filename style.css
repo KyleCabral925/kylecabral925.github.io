@@ -8,5 +8,7 @@ h2 {
 
 div {
             background: white;
+            width: 1024px;
+            height: 500px;
 }
 #nav-table { width: 1024px;}
