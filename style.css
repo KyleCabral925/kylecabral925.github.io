@@ -7,7 +7,7 @@ h1 {
 }
         
         body {
-            background-image: "myBackround.jpg";
+            background-image: url ("myBackround.jpg");
         }
 
 
