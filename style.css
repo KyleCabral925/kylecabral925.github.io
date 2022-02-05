@@ -4,6 +4,7 @@ h2 {
         
         body {
             background-color: rgb(38, 145, 255);
+            background-image: url("myBackround.jpg");
         }
 
 #nav-table { width: 1024px;}
