@@ -17,7 +17,7 @@ div {
 }
 
 #div-buttons {
-            background: (0, 0, 123);
+            background: rgb(0, 0, 123);
             width: 1024px;
 }
 #nav-table { width: 1024px;}
