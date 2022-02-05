@@ -11,4 +11,9 @@ div {
             width: 1024px;
             
 }
+
+#div-buttons {
+            background: blue;
+            width: 1024px;
+}
 #nav-table { width: 1024px;}
