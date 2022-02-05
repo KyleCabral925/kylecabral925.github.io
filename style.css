@@ -1,6 +1,10 @@
 h2 {
             color: rgb(0, 60, 0);
         }  
+
+h1 {
+            font-family: "Verdana";
+}
         
         body {
             background-color: rgb(38, 145, 255);
