@@ -11,6 +11,10 @@ h1 {
      
         }
 
+#aboutme-page {
+            background-image: url("mybackround.jpg");
+            background-size: cover;
+}
 
 #white-background {
             background: white;
