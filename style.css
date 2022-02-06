@@ -20,8 +20,7 @@ h1 {
 #white-background {
             background: white;
             width: 1024px;
-            margin-right: 6px;
-            margin-left: 6px;
+            
             
 }
 
@@ -32,5 +31,10 @@ h1 {
 
 #manu {
           
+}
+
+#p-margin {
+            margin-right: 6px;
+            margin-left: 6px;
 }
 #nav-table { width: 1024px;}
