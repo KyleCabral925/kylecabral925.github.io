@@ -29,5 +29,7 @@ h1 {
             width: 1024px;
 }
 
-
+#ben {
+            float: left;
+}
 #nav-table { width: 1024px;}
