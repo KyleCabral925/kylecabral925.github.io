@@ -29,7 +29,6 @@ h1 {
 }
 
 #manu {
-            width: 300px;
-            height: 300px;
+           float: left;
 }
 #nav-table { width: 1024px;}
