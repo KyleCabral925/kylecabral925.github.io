@@ -12,8 +12,8 @@ h1 {
         }
 
 #aboutme-page {
-            background-image: url("csc106_banner.jpg");
-            
+            background-image: url("myBackround.jpg");
+            background-size: cover;
 }
 
 #white-background {
