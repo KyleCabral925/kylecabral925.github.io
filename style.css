@@ -12,6 +12,10 @@ h1 {
      
         }
 
+th {
+           font-size: 26px;
+            font-family: Verdana,Geneva,sans-serif;
+}
 #aboutme-page {
             background-image: url("myBackround.jpg");
             background-size: cover;
